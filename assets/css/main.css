@@ -249,7 +249,7 @@ sm {
 
 /*End Portfolio*/
 
-@media (max-width: 320px) {
+@media (min-width: 320px) {
 
     #me {
         background: #fff;
@@ -258,9 +258,189 @@ sm {
         width: 100%;
     }
 
-    #me > div > h1 {
+    #me h1 {
 
         font-size: 65px;
         margin-top: 16px;
+    }
+}
+
+@media (min-width: 360px) {
+
+    #me {
+        background: #fff;
+        margin-bottom: -20px;
+        min-height: 43.5em;
+        width: 100%;
+    }
+
+    #me h1 {
+        font-size: 65px;
+        margin-top: 1.3em;
+    }
+}
+
+@media (min-width: 480px) {
+
+    #me {
+        background: #fff;
+        margin-bottom: -20px;
+        min-height: 25em;
+        width: 100%;
+    }
+
+    #me h1 {
+        font-size: 65px;
+        margin-top: 0.5em;
+    }
+}
+
+@media (min-width: 600px) {
+
+    #me {
+        background: #fff;
+        margin-bottom: -20px;
+        min-height: 69em;
+        width: 100%;
+    }
+
+    #me h1 {
+        font-size: 65px;
+        margin-top: 5em;
+    }
+}
+
+@media (min-width: 640px) {
+
+    #me {
+        background: #fff;
+        margin-bottom: -20px;
+        min-height: 25em;
+        width: 100%;
+    }
+
+    #me h1 {
+        font-size: 65px;
+        margin-top: 1em;
+    }
+}
+
+@media (min-width: 768px) {
+
+    #me {
+        background: #fff;
+        margin-bottom: -20px;
+        min-height: 58em;
+        width: 100%;
+    }
+
+    #me h1 {
+        font-size: 65px;
+        margin-top: 5em;
+    }
+}
+
+@media (min-width: 800px) {
+
+    #me {
+        background: #fff;
+        margin-bottom: -20px;
+        min-height: 47em;
+        width: 100%;
+    }
+
+    #me h1 {
+        font-size: 65px;
+        margin-top: 3.5em;
+    }
+}
+
+@media (min-width: 980px) {
+
+    #me {
+        background: #fff;
+        margin-bottom: -20px;
+        min-height: 74em;
+        width: 100%;
+    }
+
+    #me h1 {
+        font-size: 65px;
+        margin-top: 7em;
+    }
+}
+
+@media (min-width: 1024px) {
+
+    #me {
+        background: #fff;
+        margin-bottom: -20px;
+        min-height: 39em;
+        width: 100%;
+    }
+
+    #me h1 {
+        font-size: 65px;
+        margin-top: 3em;
+    }
+}
+
+@media (min-width: 1280px) {
+
+    #me {
+        background: #fff;
+        margin-bottom: -20px;
+        min-height: 63em;
+        width: 100%;
+    }
+
+    #me h1 {
+        font-size: 65px;
+        margin-top: 5em;
+    }
+}
+
+@media (min-width: 1440px) {
+
+    #me {
+        background: #fff;
+        margin-bottom: -20px;
+        min-height: 48em;
+        width: 100%;
+    }
+
+    #me h1 {
+        font-size: 65px;
+        margin-top: 4.5em;
+    }
+}
+
+@media (min-width: 1920px) {
+
+    #me {
+        background: #fff;
+        margin-bottom: -20px;
+        min-height: 62em;
+        width: 100%;
+    }
+
+    #me h1 {
+        font-size: 65px;
+        margin-top: 5em;
+    }
+}
+
+@media (min-width: 1680px) {
+
+    #me {
+        background: #fff;
+        margin-bottom: -20px;
+        min-height: 64em;
+        width: 100%;
+    }
+
+    #me h1 {
+        font-size: 65px;
+        margin-top: 6em;
     }
 }
